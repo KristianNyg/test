@@ -136,6 +136,28 @@ Basisrate-desken angrep portmodellen med historikk, og kritikken tas til følge.
 7. **Tripwire nr. 1 lukket samme kveld:** de påståtte 5.–6. august-angrepene var juli-kontaminering (CENTCOM-artikkel 4559495 = 29.–30. juli-responsen på IRGC-salven 28. juli). Basisrate-deskens [PÅSTÅTT]-merking og kravet om verifisering før bruk virket som designet. Tilleggsfunn: Marine Log-overskriften «joint statement released» refererte til juni-uttalelsen («toll-free safe passage», Omans UD) — ikke en ny august-publisering; og gebyr-striden er presisert til frivillig (Oman) vs. obligatorisk (Iran).
 
 ---
+
+## TILLEGG (7. august, natt): Saudi-varselet verifisert — korrigert fordeling
+
+Tre-deskers verifiseringskjøring (fakta/advokat/falsifikator, ~40 søk) av det «saudiske trusselvarselet». Resultat:
+
+**Faktakjeden:** Varselet er ekte (CNN-liveblogg torsdag 6.8 kveld) men enkeltkildet — **én anonym saudisk tjenestemann**, «multiple intelligence reports», ingen SPA/MoD-publisering. «Timet på markedsstenging fredag» var **feil**: brøt torsdag kveld etter settlement, og oljen **steg** på det (WTI +1,9 % settle, ~+3,4 % i kveldshandel til ~77,75). «Trump–MBS-samtale timer før» var **resirkulering** av 1.–2. aug-samtalen. Houthi-operasjonen var alt **gjennomført** torsdag (45 døde jemenittiske regjeringsstyrker, Marib/Hadramawt, verste siden 2022; houthienes begrunnelse: forkjøp av saudisk offensiv «in final stages»). Ingen Trump-«jeg stanset angrepet» finnes (sitatene i omløp er fra mai 2025). Nesten identisk saudisk varsel 1. nov 2022 (Fox-sak med samme overskrift) ble aldri fulgt av angrep.
+
+**Hypotesefordeling for varselet** (overlappende):
+- H4 Saudisk egeninteresse (luftvernprioritering — 894 avskjæringer, lagre «running dry», 730 PAC-3 venter; avskrekking; 2022-mal): **~30 %**
+- H1 Ekte trussel (mønsterfortsettelse av 27.–28. juli: droner fra Irak + Jizan/Yanbu/Abha truffet): **~30 %**
+- H2 Konsent-/attribusjonsforberedelse (3 av 3 runder hadde attribusjon-før-kinetikk — men juli-attribusjonen gikk via offisielle kanaler, dette går via anonym enkeltkilde): **~20 %**
+- H3 Helte-beat-oppsett (Trump-mønsteret dokumentert — fem dempingsannonseringer på fem måneder — men beatet ble brukt 2.8 og prisen steg, ble ikke undertrykt): **~10 %**
+- H5 Ren støy/resirkulering: **~10 %**
+
+**Konsekvenser for hasardtabellen:** Type A innen 24.8 nedjusteres ~41 %→**~35 %**, innen 31.8 ~57 %→**~50 %**; drift-grenen opp mot ~45 %. Vinduet 16.–24.8 står som modalt, men med bredere feilmarginer: avtaleprosessen er verifisert substansiell (koordinater avtalt, gebyrsøm reell), Trumps valgkalender-insentiv for avtale er ekte, og Gulf-bremsen er ikke bekreftet løsnet (ingen ny MBS-samtale funnet). Nytt houthi-/milits-treff mot Saudi innen 7 dager: ~50 %; direkte iransk storangrep på Saudi: ~7 % (Iran har spart Saudi siden april).
+
+**Nye feillogg-punkter:**
+8. **Tidssoneglidning + resirkulering er sanntids-OSINTens standardfeil, og den treffer systematisk i eskalerende retning.** Fire tilfeller i én analyse: Bahrain 5.8, «angrepene» 5.–6.8, MBS-samtalen, «fredagsstenging». Regel: dater hvert «breaking»-datapunkt mot primærkilde før det tas inn i noen fordeling.
+9. **«Timet på markedsstenging»-lesningen var bygget på udatert premiss** og viste seg faktisk feil — og selv med riktig premiss er den ikke etterprøvbar uten døgnfordeling av meldingsflyten som base.
+10. **Lekkasje-inversjonen har ikke inntruffet:** Trump omtalte ammunisjonen som «tighter» 6.8. Svakhetshistoriene renner fortsatt; «lekkasjene har snudd»-påstanden var feil.
+
+---
 ---
 
 # VEDLEGG — TIMING-DESKRAPPORTENE I SIN HELHET
