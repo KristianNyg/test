@@ -14,7 +14,7 @@
 2. **Utløseren bor i Teheran, ikke i Washington.** Alle tre historiske gjenopptak fulgte en iransk handling innen 0–72 timer (krigsskip-måling → 7. mai; dronetreff → 26. juni; tre fartøy truffet → 7. juli). Amerikanske «porter» (opex, mørkevindu, bruddsak) modulerer *størrelsen og innpakningen* på responsen — ikke om eller når vinduet er åpent. Gråsonetreffene dag 0–2 av denne lullen (Khasab) viser at triggerlageret allerede fylles.
 3. **Den viktigste enkeltdatoen er 16. august:** MOU+60 gir Iran tekstgrunnlag for å fakturere *åpent* (gebyrregimet er allerede operativt i det stille — første inntekter gikk inn i sentralbanken i april). Synlig faktura → amerikansk brudd-dokumentasjon → responsgrunnlag. Tre iranske klokker (gebyrlegitimitet 16.8, veikart 22.8, waiver-frist 21.8) konvergerer med amerikansk opex (17.8), nymåne (13.8), kongress-void (8.8–13.9) og to-dekks-vinduet (til ~1.9) i **uken 16.–24. august**.
 4. **Type B-start: betinget vindu 8. september–15. oktober (~45–53 % fusjonert masse), ellers etter valget/vår 2027 (~29 % «etter 15. okt/aldri»).** Tre porter må åpne først: Petroline/Abqaiq-bypass reparert (~1.–15. sep), interceptor-situasjonen akseptert eller bedret (materielt stengt til oktober per militærdesken), og energimål-klarering (Katz maser fortsatt offentlig — lampen har IKKE fyrt). Fyringssesongen stenger vinduet hardt etter ~15. oktober.
-5. **Uavklart faktum som overstyrer alt:** én søkeoppsummering hevder amerikanske angrep natt til 6. august. Kildene daterer det ikke entydig (mulig juli-kontaminering). Hvis reelt, er lullen allerede punktert på dag 3–4 og «vinduet» er realisert — verifiser før noe annet.
+5. **Avklart 6. august kveld (etterverifisering):** de påståtte amerikanske angrepene natt til 6. august var juli-kontaminering i søkelaget — CENTCOM-meldingen «US Strikes IRGC Targets After Attempted Iranian Attacks» gjelder bølgen 29.–30. juli (IRGC-missilsalve mot amerikanske styrker 28. juli, alle avskåret → tung amerikansk respons 29. juli 22:00 ET). Lullen fra 1.–2. august er intakt, og hasardtabellene står. Nytt funn i samme sveip: gebyr-gaffelen er presisert — Oman vil ha *frivillige* gebyrer, Iran *obligatoriske* (Ynet/MEE). Det er nøyaktig sømmen en amerikansk bruddsak vil bygges i.
 6. **Regimeskifte-testen:** overlever lullen 1. september uten Type A, er den lengre enn alle observerte (>29 dager) — da er rytmen brutt, denne tabellen død, og ekte-avtale-grenen (S5) hovedhypotesen.
 
 ---
@@ -101,7 +101,7 @@ Basisrate-desken angrep portmodellen med historikk, og kritikken tas til følge.
 
 | # | Tripwire | Kilde / frekvens | Effekt på kurven |
 |---|---|---|---|
-| 1 | **Verifiser 5.–6. aug-angrepene** — skjedde de? | CENTCOM/wire-tjenester, nå | Hvis ja: Type A allerede realisert dag 3–4; alt under er post-hoc |
+| 1 | ~~Verifiser 5.–6. aug-angrepene~~ **AVKLART 6.8 kveld: juli-kontaminering** (CENTCOM-meldingen gjaldt 29.–30. juli-bølgen); lullen intakt | CENTCOM/wire-tjenester | Tabellene står; punktet erstattes av daglig CENTCOM/UKMTO-sjekk for nye runder |
 | 2 | Fellesuttalelsens publisering + gebyrordlyd | IRNA/ONA vs. Axios, daglig | Publisering starter bruddklokken (dag ~8 = definitorisk, dag ~21–24 = kollaps); gebyrer i tekst → fremskynd én uke |
 | 3 | Første offisielle iranske faktura/gebyrsats under ny ordning | Fars/Tasnim/Mehr, daglig fra 14. aug | Selve utløseren for amerikansk bruddsak — vindu 1s tenning |
 | 4 | Retorikkskifte «progress» → «violation» med tall | Truth Social/State, daglig | P2 fyrt; Type A innen 3–7 dager |
@@ -133,6 +133,7 @@ Basisrate-desken angrep portmodellen med historikk, og kritikken tas til følge.
 4. **Kampanjestarten i juli var 7. juli, ikke 8.** MOU-en ble definitorisk brutt allerede dag 2 (Irans rutepåbud 19. juni), kinetisk dag 8–9.
 5. **Gebyrregimet er ikke fremtidig — det er operativt siden april** (parlamentsvedtak 21.4, IRGC-tillatelsespuljer, inntekter i CBI). Gaffelen er ikke «kommer gebyrer?», men «når faktureres det åpent?» — og svaret har en dato: ~16. august.
 6. **Metode:** portmodellen overlevde ikke kontakt med historikken uredigert — opex og mørkevindu degradert fra porter til preferanser etter moteksempler. AND-fusjon av myke porter gir kunstig lave haler; fusjonen bruker nå harde porter kun der en domenedesk kan navngi mekanismen som binder.
+7. **Tripwire nr. 1 lukket samme kveld:** de påståtte 5.–6. august-angrepene var juli-kontaminering (CENTCOM-artikkel 4559495 = 29.–30. juli-responsen på IRGC-salven 28. juli). Basisrate-deskens [PÅSTÅTT]-merking og kravet om verifisering før bruk virket som designet. Tilleggsfunn: Marine Log-overskriften «joint statement released» refererte til juni-uttalelsen («toll-free safe passage», Omans UD) — ikke en ny august-publisering; og gebyr-striden er presisert til frivillig (Oman) vs. obligatorisk (Iran).
 
 ---
 ---
