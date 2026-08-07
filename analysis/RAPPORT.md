@@ -46,6 +46,29 @@ Fullstendige tall: [`output/resultater.md`](output/resultater.md).
   drivere: USD, inflasjon, global vekst). Dagens verdi nær null/negativ er lavt,
   men ikke uten presedens (ligner 2015 og 2020).
 
+## Oppdatering: siste måned og siste 3/2/1 uker (per 3. august 2026)
+
+Daglig gullproxy for juni–august 2026: implisitt gullpris fra
+[zolodio/GoldBackTrack](https://github.com/zolodio/GoldBackTrack) (1 Goldback =
+1/1000 oz; detaljistpremien ~2,0x er stabil og faller bort i avkastninger).
+Validert mot PAXG jan–mai 2026: ukentlig avkastningskorrelasjon **0,98**,
+daglig 0,58. Beregnes med `python3 recent_windows.py`.
+
+| Vindu | Periode | N (avk.) | Pearson r | p | Spearman | Gull | Brent |
+|---|---|---|---|---|---|---|---|
+| 1 måned | 03.07–03.08 | 20 | **−0,32** | 0,17 | −0,22 | −2,1 % | +29,4 % |
+| 3 uker | 13.07–03.08 | 15 | −0,23 | 0,41 | −0,14 | +0,7 % | +8,9 % |
+| 2 uker | 20.07–03.08 | 10 | −0,30 | 0,40 | −0,27 | +0,6 % | +2,2 % |
+| 1 uke | 27.07–03.08 | 5 | −0,20 | 0,74 | −0,60 | −0,9 % | −3,2 % |
+
+Korrelasjonen er negativ i alle vinduene, men med 5–20 observasjoner er ingen
+enkeltestimater statistisk signifikante — retningen er likevel konsistent med
+6- og 12-månederstallene (−0,41 / −0,31 på ukedata) og med nyhetsbildet:
+Midtøsten-eskalering drev Brent fra ~69 til ~97 USD gjennom juli samtidig som
+gull falt (renteforventninger), og en avtale om delvis gjenåpning av
+Hormuz-stredet i månedsskiftet sendte oljen ned ~8 % mens gull ralliet mot
+4 300 USD/oz første uken av august.
+
 ## Data og metode
 
 | Serie | Kilde | Frekvens | Dekning |

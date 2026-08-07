@@ -1,0 +1,1279 @@
+[
+  {
+    "date": "2019-06-24",
+    "rate_usd": 2.5,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 2500.0
+  },
+  {
+    "date": "2024-09-12",
+    "rate_usd": 5.2,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 5200.0
+  },
+  {
+    "date": "2025-03-21",
+    "rate_usd": 6.04,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 6040.0
+  },
+  {
+    "date": "2025-03-23",
+    "rate_usd": 6.04,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 6040.0
+  },
+  {
+    "date": "2025-03-25",
+    "rate_usd": 6.1,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 6100.0
+  },
+  {
+    "date": "2025-05-18",
+    "rate_usd": 6.72,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 6720.0
+  },
+  {
+    "date": "2025-11-07",
+    "rate_usd": 8.0,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 8000.0
+  },
+  {
+    "date": "2026-01-14",
+    "rate_usd": 9.18,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9180.0
+  },
+  {
+    "date": "2026-01-17",
+    "rate_usd": 9.51,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9510.0
+  },
+  {
+    "date": "2026-01-18",
+    "rate_usd": 9.18,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9180.0
+  },
+  {
+    "date": "2026-01-19",
+    "rate_usd": 9.5,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9500.0
+  },
+  {
+    "date": "2026-01-20",
+    "rate_usd": 9.5,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9500.0
+  },
+  {
+    "date": "2026-01-21",
+    "rate_usd": 9.67,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9670.0
+  },
+  {
+    "date": "2026-01-22",
+    "rate_usd": 9.76,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9760.0
+  },
+  {
+    "date": "2026-01-23",
+    "rate_usd": 9.96,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9960.0
+  },
+  {
+    "date": "2026-01-24",
+    "rate_usd": 9.96,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9960.0
+  },
+  {
+    "date": "2026-01-25",
+    "rate_usd": 9.96,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9960.0
+  },
+  {
+    "date": "2026-01-26",
+    "rate_usd": 10.18,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 10180.0
+  },
+  {
+    "date": "2026-01-27",
+    "rate_usd": 10.17,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 10170.0
+  },
+  {
+    "date": "2026-01-28",
+    "rate_usd": 10.61,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 10610.0
+  },
+  {
+    "date": "2026-01-29",
+    "rate_usd": 10.59,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 10590.0
+  },
+  {
+    "date": "2026-01-30",
+    "rate_usd": 9.96,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9960.0
+  },
+  {
+    "date": "2026-01-31",
+    "rate_usd": 9.96,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9960.0
+  },
+  {
+    "date": "2026-02-01",
+    "rate_usd": 9.96,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9960.0
+  },
+  {
+    "date": "2026-02-02",
+    "rate_usd": 9.45,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9450.0
+  },
+  {
+    "date": "2026-02-03",
+    "rate_usd": 9.92,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9920.0
+  },
+  {
+    "date": "2026-02-04",
+    "rate_usd": 9.81,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9810.0
+  },
+  {
+    "date": "2026-02-05",
+    "rate_usd": 9.79,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9790.0
+  },
+  {
+    "date": "2026-02-06",
+    "rate_usd": 9.92,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9920.0
+  },
+  {
+    "date": "2026-02-07",
+    "rate_usd": 9.92,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9920.0
+  },
+  {
+    "date": "2026-02-08",
+    "rate_usd": 9.92,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9920.0
+  },
+  {
+    "date": "2026-02-09",
+    "rate_usd": 10.15,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 10150.0
+  },
+  {
+    "date": "2026-02-10",
+    "rate_usd": 10.05,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 10050.0
+  },
+  {
+    "date": "2026-02-11",
+    "rate_usd": 10.15,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 10150.0
+  },
+  {
+    "date": "2026-02-12",
+    "rate_usd": 9.9,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9900.0
+  },
+  {
+    "date": "2026-02-13",
+    "rate_usd": 10.02,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 10020.0
+  },
+  {
+    "date": "2026-02-14",
+    "rate_usd": 10.02,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 10020.0
+  },
+  {
+    "date": "2026-02-15",
+    "rate_usd": 10.02,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 10020.0
+  },
+  {
+    "date": "2026-02-16",
+    "rate_usd": 10.02,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 10020.0
+  },
+  {
+    "date": "2026-02-18",
+    "rate_usd": 10.0,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 10000.0
+  },
+  {
+    "date": "2026-02-19",
+    "rate_usd": 10.0,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 10000.0
+  },
+  {
+    "date": "2026-02-20",
+    "rate_usd": 10.14,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 10140.0
+  },
+  {
+    "date": "2026-02-21",
+    "rate_usd": 10.14,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 10140.0
+  },
+  {
+    "date": "2026-02-22",
+    "rate_usd": 10.14,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 10140.0
+  },
+  {
+    "date": "2026-02-23",
+    "rate_usd": 10.42,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 10420.0
+  },
+  {
+    "date": "2026-02-24",
+    "rate_usd": 10.3,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 10300.0
+  },
+  {
+    "date": "2026-02-25",
+    "rate_usd": 10.43,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 10430.0
+  },
+  {
+    "date": "2026-02-26",
+    "rate_usd": 10.36,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 10360.0
+  },
+  {
+    "date": "2026-02-27",
+    "rate_usd": 10.46,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 10460.0
+  },
+  {
+    "date": "2026-02-28",
+    "rate_usd": 10.46,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 10460.0
+  },
+  {
+    "date": "2026-03-01",
+    "rate_usd": 10.46,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 10460.0
+  },
+  {
+    "date": "2026-03-02",
+    "rate_usd": 10.6,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 10600.0
+  },
+  {
+    "date": "2026-03-03",
+    "rate_usd": 10.16,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 10160.0
+  },
+  {
+    "date": "2026-03-04",
+    "rate_usd": 10.3,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 10300.0
+  },
+  {
+    "date": "2026-03-05",
+    "rate_usd": 10.15,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 10150.0
+  },
+  {
+    "date": "2026-03-06",
+    "rate_usd": 10.27,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 10270.0
+  },
+  {
+    "date": "2026-03-07",
+    "rate_usd": 10.27,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 10270.0
+  },
+  {
+    "date": "2026-03-08",
+    "rate_usd": 10.27,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 10270.0
+  },
+  {
+    "date": "2026-03-09",
+    "rate_usd": 10.21,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 10210.0
+  },
+  {
+    "date": "2026-03-10",
+    "rate_usd": 10.46,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 10460.0
+  },
+  {
+    "date": "2026-03-11",
+    "rate_usd": 10.33,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 10330.0
+  },
+  {
+    "date": "2026-03-12",
+    "rate_usd": 10.26,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 10260.0
+  },
+  {
+    "date": "2026-03-13",
+    "rate_usd": 10.06,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 10060.0
+  },
+  {
+    "date": "2026-03-14",
+    "rate_usd": 10.06,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 10060.0
+  },
+  {
+    "date": "2026-03-15",
+    "rate_usd": 10.06,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 10060.0
+  },
+  {
+    "date": "2026-03-16",
+    "rate_usd": 9.98,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9980.0
+  },
+  {
+    "date": "2026-03-17",
+    "rate_usd": 9.99,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9990.0
+  },
+  {
+    "date": "2026-03-18",
+    "rate_usd": 9.74,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9740.0
+  },
+  {
+    "date": "2026-03-19",
+    "rate_usd": 9.23,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9230.0
+  },
+  {
+    "date": "2026-03-20",
+    "rate_usd": 9.11,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9110.0
+  },
+  {
+    "date": "2026-03-24",
+    "rate_usd": 8.82,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 8820.0
+  },
+  {
+    "date": "2026-03-25",
+    "rate_usd": 9.12,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9120.0
+  },
+  {
+    "date": "2026-03-26",
+    "rate_usd": 8.89,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 8890.0
+  },
+  {
+    "date": "2026-03-27",
+    "rate_usd": 9.07,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9070.0
+  },
+  {
+    "date": "2026-03-28",
+    "rate_usd": 9.07,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9070.0
+  },
+  {
+    "date": "2026-03-29",
+    "rate_usd": 9.07,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9070.0
+  },
+  {
+    "date": "2026-03-30",
+    "rate_usd": 9.11,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9110.0
+  },
+  {
+    "date": "2026-03-31",
+    "rate_usd": 9.11,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9110.0
+  },
+  {
+    "date": "2026-04-01",
+    "rate_usd": 9.57,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9570.0
+  },
+  {
+    "date": "2026-04-02",
+    "rate_usd": 9.31,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9310.0
+  },
+  {
+    "date": "2026-04-03",
+    "rate_usd": 9.31,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9310.0
+  },
+  {
+    "date": "2026-04-04",
+    "rate_usd": 9.31,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9310.0
+  },
+  {
+    "date": "2026-04-05",
+    "rate_usd": 9.31,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9310.0
+  },
+  {
+    "date": "2026-04-06",
+    "rate_usd": 9.33,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9330.0
+  },
+  {
+    "date": "2026-04-07",
+    "rate_usd": 9.31,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9310.0
+  },
+  {
+    "date": "2026-04-08",
+    "rate_usd": 9.52,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9520.0
+  },
+  {
+    "date": "2026-04-09",
+    "rate_usd": 9.57,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9570.0
+  },
+  {
+    "date": "2026-04-10",
+    "rate_usd": 9.53,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9530.0
+  },
+  {
+    "date": "2026-04-11",
+    "rate_usd": 9.53,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9530.0
+  },
+  {
+    "date": "2026-04-12",
+    "rate_usd": 9.53,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9530.0
+  },
+  {
+    "date": "2026-04-13",
+    "rate_usd": 9.43,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9430.0
+  },
+  {
+    "date": "2026-04-14",
+    "rate_usd": 9.62,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9620.0
+  },
+  {
+    "date": "2026-04-15",
+    "rate_usd": 9.61,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9610.0
+  },
+  {
+    "date": "2026-04-16",
+    "rate_usd": 9.61,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9610.0
+  },
+  {
+    "date": "2026-04-17",
+    "rate_usd": 9.73,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9730.0
+  },
+  {
+    "date": "2026-04-18",
+    "rate_usd": 9.73,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9730.0,
+    "scraped_at": "2026-04-18T17:51:24.348413+00:00"
+  },
+  {
+    "date": "2026-04-19",
+    "rate_usd": 9.73,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9730.0,
+    "scraped_at": "2026-04-19T17:50:44.282719+00:00"
+  },
+  {
+    "date": "2026-04-20",
+    "rate_usd": 9.6,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9600.0,
+    "scraped_at": "2026-04-20T18:07:47.873747+00:00"
+  },
+  {
+    "date": "2026-04-21",
+    "rate_usd": 9.49,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9490.0,
+    "scraped_at": "2026-04-21T18:10:55.946773+00:00"
+  },
+  {
+    "date": "2026-04-22",
+    "rate_usd": 9.45,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9450.0,
+    "scraped_at": "2026-04-22T18:12:18.461699+00:00"
+  },
+  {
+    "date": "2026-04-23",
+    "rate_usd": 9.45,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9450.0,
+    "scraped_at": "2026-04-23T18:14:57.103663+00:00"
+  },
+  {
+    "date": "2026-04-24",
+    "rate_usd": 9.46,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9460.0,
+    "scraped_at": "2026-04-24T17:57:34.251387+00:00"
+  },
+  {
+    "date": "2026-04-25",
+    "rate_usd": 9.46,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9460.0,
+    "scraped_at": "2026-04-25T17:53:58.596661+00:00"
+  },
+  {
+    "date": "2026-04-26",
+    "rate_usd": 9.46,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9460.0,
+    "scraped_at": "2026-04-26T17:54:31.454819+00:00"
+  },
+  {
+    "date": "2026-04-27",
+    "rate_usd": 9.35,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9350.0,
+    "scraped_at": "2026-04-27T18:17:23.856009+00:00"
+  },
+  {
+    "date": "2026-04-28",
+    "rate_usd": 9.17,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9170.0,
+    "scraped_at": "2026-04-28T18:47:08.170090+00:00"
+  },
+  {
+    "date": "2026-04-29",
+    "rate_usd": 9.1,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9100.0,
+    "scraped_at": "2026-04-29T18:23:10.541874+00:00"
+  },
+  {
+    "date": "2026-04-30",
+    "rate_usd": 9.22,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9220.0,
+    "scraped_at": "2026-04-30T18:24:00.643775+00:00"
+  },
+  {
+    "date": "2026-05-01",
+    "rate_usd": 9.28,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9280.0,
+    "scraped_at": "2026-05-01T18:08:21.447799+00:00"
+  },
+  {
+    "date": "2026-05-02",
+    "rate_usd": 9.28,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9280.0,
+    "scraped_at": "2026-05-02T17:58:41.970595+00:00"
+  },
+  {
+    "date": "2026-05-03",
+    "rate_usd": 9.28,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9280.0,
+    "scraped_at": "2026-05-03T17:58:12.913193+00:00"
+  },
+  {
+    "date": "2026-05-04",
+    "rate_usd": 9.05,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9050.0,
+    "scraped_at": "2026-05-04T18:27:02.774902+00:00"
+  },
+  {
+    "date": "2026-05-05",
+    "rate_usd": 9.14,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9140.0,
+    "scraped_at": "2026-05-05T18:24:05.135509+00:00"
+  },
+  {
+    "date": "2026-05-06",
+    "rate_usd": 9.39,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9390.0,
+    "scraped_at": "2026-05-06T18:52:27.206534+00:00"
+  },
+  {
+    "date": "2026-05-07",
+    "rate_usd": 9.47,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9470.0,
+    "scraped_at": "2026-05-07T18:55:47.517294+00:00"
+  },
+  {
+    "date": "2026-05-08",
+    "rate_usd": 9.42,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9420.0,
+    "scraped_at": "2026-05-08T18:20:57.396288+00:00"
+  },
+  {
+    "date": "2026-05-09",
+    "rate_usd": 9.42,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9420.0,
+    "scraped_at": "2026-05-09T18:00:29.234993+00:00"
+  },
+  {
+    "date": "2026-05-10",
+    "rate_usd": 9.42,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9420.0,
+    "scraped_at": "2026-05-10T18:01:16.770514+00:00"
+  },
+  {
+    "date": "2026-05-11",
+    "rate_usd": 9.46,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9460.0,
+    "scraped_at": "2026-05-11T19:07:17.416628+00:00"
+  },
+  {
+    "date": "2026-05-12",
+    "rate_usd": 9.33,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9330.0,
+    "scraped_at": "2026-05-12T19:06:09.211189+00:00"
+  },
+  {
+    "date": "2026-05-13",
+    "rate_usd": 9.39,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9390.0,
+    "scraped_at": "2026-05-13T19:04:55.204289+00:00"
+  },
+  {
+    "date": "2026-05-14",
+    "rate_usd": 9.37,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9370.0,
+    "scraped_at": "2026-05-14T19:03:20.184384+00:00"
+  },
+  {
+    "date": "2026-05-15",
+    "rate_usd": 9.07,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9070.0,
+    "scraped_at": "2026-05-15T18:48:43.365128+00:00"
+  },
+  {
+    "date": "2026-05-16",
+    "rate_usd": 9.07,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9070.0,
+    "scraped_at": "2026-05-16T18:03:11.314207+00:00"
+  },
+  {
+    "date": "2026-05-17",
+    "rate_usd": 9.07,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9070.0,
+    "scraped_at": "2026-05-17T18:06:51.852831+00:00"
+  },
+  {
+    "date": "2026-05-18",
+    "rate_usd": 9.08,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9080.0,
+    "scraped_at": "2026-05-18T19:01:10.948341+00:00"
+  },
+  {
+    "date": "2026-05-19",
+    "rate_usd": 9.0,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9000.0,
+    "scraped_at": "2026-05-19T19:14:23.588757+00:00"
+  },
+  {
+    "date": "2026-05-20",
+    "rate_usd": 9.07,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9070.0,
+    "scraped_at": "2026-05-20T19:33:44.026616+00:00"
+  },
+  {
+    "date": "2026-05-21",
+    "rate_usd": 9.02,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9020.0,
+    "scraped_at": "2026-05-21T19:09:21.413102+00:00"
+  },
+  {
+    "date": "2026-05-22",
+    "rate_usd": 9.04,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9040.0,
+    "scraped_at": "2026-05-22T19:02:09.821158+00:00"
+  },
+  {
+    "date": "2026-05-23",
+    "rate_usd": 9.04,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9040.0,
+    "scraped_at": "2026-05-23T18:09:12.996354+00:00"
+  },
+  {
+    "date": "2026-05-24",
+    "rate_usd": 9.04,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9040.0,
+    "scraped_at": "2026-05-24T18:09:49.388748+00:00"
+  },
+  {
+    "date": "2026-05-25",
+    "rate_usd": 9.04,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9040.0,
+    "scraped_at": "2026-05-25T18:51:22.222730+00:00"
+  },
+  {
+    "date": "2026-05-26",
+    "rate_usd": 9.01,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9010.0,
+    "scraped_at": "2026-05-26T19:27:50.002776+00:00"
+  },
+  {
+    "date": "2026-05-27",
+    "rate_usd": 8.86,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 8860.0,
+    "scraped_at": "2026-05-27T19:33:05.050113+00:00"
+  },
+  {
+    "date": "2026-05-28",
+    "rate_usd": 8.96,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 8960.0,
+    "scraped_at": "2026-05-28T19:43:51.693086+00:00"
+  },
+  {
+    "date": "2026-05-29",
+    "rate_usd": 9.14,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9140.0,
+    "scraped_at": "2026-05-29T19:40:09.604894+00:00"
+  },
+  {
+    "date": "2026-05-30",
+    "rate_usd": 9.14,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9140.0,
+    "scraped_at": "2026-05-30T18:13:06.293738+00:00"
+  },
+  {
+    "date": "2026-05-31",
+    "rate_usd": 9.14,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9140.0,
+    "scraped_at": "2026-05-31T18:14:04.424317+00:00"
+  },
+  {
+    "date": "2026-06-01",
+    "rate_usd": 8.94,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 8940.0,
+    "scraped_at": "2026-06-01T21:03:28.503202+00:00"
+  },
+  {
+    "date": "2026-06-02",
+    "rate_usd": 9.01,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9010.0,
+    "scraped_at": "2026-06-02T20:50:58.874184+00:00"
+  },
+  {
+    "date": "2026-06-03",
+    "rate_usd": 9.01,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 9010.0,
+    "scraped_at": "2026-06-03T14:39:45.350116+00:00"
+  },
+  {
+    "date": "2026-06-04",
+    "rate_usd": 8.95,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 8950.0,
+    "scraped_at": "2026-06-04T19:30:56.134537+00:00"
+  },
+  {
+    "date": "2026-06-06",
+    "rate_usd": 8.68,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 8680.0,
+    "scraped_at": "2026-06-06T18:18:44.832806+00:00"
+  },
+  {
+    "date": "2026-06-07",
+    "rate_usd": 8.68,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 8680.0,
+    "scraped_at": "2026-06-07T18:16:59.281474+00:00"
+  },
+  {
+    "date": "2026-06-08",
+    "rate_usd": 8.68,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 8680.0,
+    "scraped_at": "2026-06-09T03:24:15.420228+00:00"
+  },
+  {
+    "date": "2026-06-10",
+    "rate_usd": 8.23,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 8230.0,
+    "scraped_at": "2026-06-10T19:45:00.879450+00:00"
+  },
+  {
+    "date": "2026-06-11",
+    "rate_usd": 8.18,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 8180.0,
+    "scraped_at": "2026-06-11T19:42:27.096744+00:00"
+  },
+  {
+    "date": "2026-06-12",
+    "rate_usd": 8.43,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 8430.0,
+    "scraped_at": "2026-06-12T19:20:59.639700+00:00"
+  },
+  {
+    "date": "2026-06-15",
+    "rate_usd": 8.71,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 8710.0,
+    "scraped_at": "2026-06-15T20:33:03.199532+00:00"
+  },
+  {
+    "date": "2026-06-16",
+    "rate_usd": 8.67,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 8670.0,
+    "scraped_at": "2026-06-16T20:18:26.407128+00:00"
+  },
+  {
+    "date": "2026-06-17",
+    "rate_usd": 8.73,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 8730.0,
+    "scraped_at": "2026-06-17T19:30:22.152408+00:00"
+  },
+  {
+    "date": "2026-06-18",
+    "rate_usd": 8.45,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 8450.0,
+    "scraped_at": "2026-06-18T19:37:18.352882+00:00"
+  },
+  {
+    "date": "2026-06-19",
+    "rate_usd": 8.3,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 8300.0,
+    "scraped_at": "2026-06-19T19:06:13.503730+00:00"
+  },
+  {
+    "date": "2026-06-21",
+    "rate_usd": 8.3,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 8300.0,
+    "scraped_at": "2026-06-21T18:46:01.585325+00:00"
+  },
+  {
+    "date": "2026-06-22",
+    "rate_usd": 8.36,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 8360.0,
+    "scraped_at": "2026-06-22T20:14:18.822426+00:00"
+  },
+  {
+    "date": "2026-06-23",
+    "rate_usd": 8.27,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 8270.0,
+    "scraped_at": "2026-06-23T19:16:10.753656+00:00"
+  },
+  {
+    "date": "2026-06-24",
+    "rate_usd": 8.0,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 8000.0,
+    "scraped_at": "2026-06-24T18:59:15.681930+00:00"
+  },
+  {
+    "date": "2026-06-27",
+    "rate_usd": 8.18,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 8180.0,
+    "scraped_at": "2026-06-27T18:15:52.416018+00:00"
+  },
+  {
+    "date": "2026-06-28",
+    "rate_usd": 8.18,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 8180.0,
+    "scraped_at": "2026-06-28T18:16:00.471858+00:00"
+  },
+  {
+    "date": "2026-06-29",
+    "rate_usd": 8.05,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 8050.0,
+    "scraped_at": "2026-06-29T19:11:21.273601+00:00"
+  },
+  {
+    "date": "2026-06-30",
+    "rate_usd": 8.07,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 8070.0,
+    "scraped_at": "2026-06-30T19:04:21.496205+00:00"
+  },
+  {
+    "date": "2026-07-01",
+    "rate_usd": 8.17,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 8170.0,
+    "scraped_at": "2026-07-01T19:07:11.071816+00:00"
+  },
+  {
+    "date": "2026-07-02",
+    "rate_usd": 8.25,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 8250.0,
+    "scraped_at": "2026-07-02T18:44:31.250583+00:00"
+  },
+  {
+    "date": "2026-07-03",
+    "rate_usd": 8.25,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 8250.0,
+    "scraped_at": "2026-07-03T18:22:34.490284+00:00"
+  },
+  {
+    "date": "2026-07-05",
+    "rate_usd": 8.25,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 8250.0,
+    "scraped_at": "2026-07-05T18:13:35.483269+00:00"
+  },
+  {
+    "date": "2026-07-06",
+    "rate_usd": 8.29,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 8290.0,
+    "scraped_at": "2026-07-06T19:04:05.638924+00:00"
+  },
+  {
+    "date": "2026-07-08",
+    "rate_usd": 8.27,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 8270.0,
+    "scraped_at": "2026-07-08T15:06:41.066091+00:00"
+  },
+  {
+    "date": "2026-07-09",
+    "rate_usd": 8.26,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 8260.0,
+    "scraped_at": "2026-07-09T18:58:11.722077+00:00"
+  },
+  {
+    "date": "2026-07-10",
+    "rate_usd": 8.22,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 8220.0,
+    "scraped_at": "2026-07-10T18:41:26.550526+00:00"
+  },
+  {
+    "date": "2026-07-11",
+    "rate_usd": 8.22,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 8220.0,
+    "scraped_at": "2026-07-11T18:02:13.806271+00:00"
+  },
+  {
+    "date": "2026-07-12",
+    "rate_usd": 8.22,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 8220.0,
+    "scraped_at": "2026-07-12T18:06:39.842537+00:00"
+  },
+  {
+    "date": "2026-07-13",
+    "rate_usd": 8.02,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 8020.0,
+    "scraped_at": "2026-07-13T18:49:22.457163+00:00"
+  },
+  {
+    "date": "2026-07-14",
+    "rate_usd": 8.13,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 8130.0,
+    "scraped_at": "2026-07-14T18:14:06.058174+00:00"
+  },
+  {
+    "date": "2026-07-15",
+    "rate_usd": 8.09,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 8090.0,
+    "scraped_at": "2026-07-15T18:18:08.982637+00:00"
+  },
+  {
+    "date": "2026-07-16",
+    "rate_usd": 8.02,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 8020.0,
+    "scraped_at": "2026-07-16T18:16:30.436407+00:00"
+  },
+  {
+    "date": "2026-07-17",
+    "rate_usd": 8.03,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 8030.0,
+    "scraped_at": "2026-07-17T18:15:20.509223+00:00"
+  },
+  {
+    "date": "2026-07-18",
+    "rate_usd": 8.03,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 8030.0,
+    "scraped_at": "2026-07-18T18:03:57.850738+00:00"
+  },
+  {
+    "date": "2026-07-19",
+    "rate_usd": 8.03,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 8030.0,
+    "scraped_at": "2026-07-19T18:05:11.158834+00:00"
+  },
+  {
+    "date": "2026-07-20",
+    "rate_usd": 8.03,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 8030.0,
+    "scraped_at": "2026-07-20T19:04:05.292056+00:00"
+  },
+  {
+    "date": "2026-07-21",
+    "rate_usd": 8.14,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 8140.0,
+    "scraped_at": "2026-07-21T18:24:11.094933+00:00"
+  },
+  {
+    "date": "2026-07-22",
+    "rate_usd": 8.33,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 8330.0,
+    "scraped_at": "2026-07-22T18:19:08.302860+00:00"
+  },
+  {
+    "date": "2026-07-23",
+    "rate_usd": 8.09,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 8090.0,
+    "scraped_at": "2026-07-23T18:21:19.483768+00:00"
+  },
+  {
+    "date": "2026-07-24",
+    "rate_usd": 8.15,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 8150.0,
+    "scraped_at": "2026-07-24T18:41:01.719088+00:00"
+  },
+  {
+    "date": "2026-07-25",
+    "rate_usd": 8.15,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 8150.0,
+    "scraped_at": "2026-07-25T18:05:08.647969+00:00"
+  },
+  {
+    "date": "2026-07-26",
+    "rate_usd": 8.15,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 8150.0,
+    "scraped_at": "2026-07-26T18:10:43.426018+00:00"
+  },
+  {
+    "date": "2026-07-27",
+    "rate_usd": 8.15,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 8150.0,
+    "scraped_at": "2026-07-27T18:44:24.298201+00:00"
+  },
+  {
+    "date": "2026-07-28",
+    "rate_usd": 8.09,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 8090.0,
+    "scraped_at": "2026-07-28T18:24:38.689979+00:00"
+  },
+  {
+    "date": "2026-07-29",
+    "rate_usd": 8.02,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 8020.0,
+    "scraped_at": "2026-07-29T18:14:20.687961+00:00"
+  },
+  {
+    "date": "2026-07-30",
+    "rate_usd": 8.22,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 8220.0,
+    "scraped_at": "2026-07-30T18:41:08.307550+00:00"
+  },
+  {
+    "date": "2026-07-31",
+    "rate_usd": 8.09,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 8090.0,
+    "scraped_at": "2026-07-31T18:41:38.176430+00:00"
+  },
+  {
+    "date": "2026-08-01",
+    "rate_usd": 8.09,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 8090.0,
+    "scraped_at": "2026-08-01T18:08:24.668880+00:00"
+  },
+  {
+    "date": "2026-08-02",
+    "rate_usd": 8.09,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 8090.0,
+    "scraped_at": "2026-08-02T18:09:06.289709+00:00"
+  },
+  {
+    "date": "2026-08-03",
+    "rate_usd": 8.08,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 8080.0,
+    "scraped_at": "2026-08-03T18:57:19.894707+00:00"
+  },
+  {
+    "date": "2026-08-04",
+    "rate_usd": 8.17,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 8170.0,
+    "scraped_at": "2026-08-04T18:46:48.727424+00:00"
+  },
+  {
+    "date": "2026-08-05",
+    "rate_usd": 8.49,
+    "gold_spot_usd": null,
+    "implied_spot_usd": 8490.0,
+    "scraped_at": "2026-08-05T18:44:13.814776+00:00"
+  }
+]
