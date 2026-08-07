@@ -69,6 +69,28 @@ gull falt (renteforventninger), og en avtale om delvis gjenåpning av
 Hormuz-stredet i månedsskiftet sendte oljen ned ~8 % mens gull ralliet mot
 4 300 USD/oz første uken av august.
 
+### Rullerende daglig korrelasjon gjennom 2026
+
+![Rullerende 10d korrelasjon 2026](output/05_rullerende_korrelasjon_10d_2026.png)
+
+10-dagers rullerende korrelasjon av daglige avkastninger (gull × Brent) har
+ligget i negativt territorium mesteparten av tiden siden mars 2026 (dypest
+rundt −0,7/−0,8 i april–mai), med to korte positive episoder (slutten av mars
+og begynnelsen av juli). Siste verdi (3. august): **−0,30**. Verdiene er trolig
+*undervurdert* i styrke pga. daglig støy i Goldback-proxyen.
+
+### Sølv
+
+Ingen daglig sølvserie som dekker juni–august 2026 var tilgjengelig gjennom
+analysemiljøets nettverkssperre (undersøkt: Coin Metrics-sølvtokens med kun 7
+dagers historikk, IMF/World Bank-datasett uten edelmetaller, stale
+GitHub-datasett). Kvalitativt viser nyhetsbildet at sølv har fulgt samme
+mønster som gull, dvs. invers mot olje: falt til ~55 USD/oz da oljen spikret
+mot 100 USD i slutten av juli (rentefrykt), og steg til ~62,5 USD/oz (7-ukers
+topp) i begynnelsen av august da Hormuz-avtalen sendte oljen ned. Sølv toppet
+på 121,62 USD/oz i januar 2026 og har siden omtrent halvert seg — en langt
+villere ferd enn gull, som gjør korrelasjonene enda mer regimeavhengige.
+
 ## Data og metode
 
 | Serie | Kilde | Frekvens | Dekning |

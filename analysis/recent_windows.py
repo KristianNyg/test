@@ -61,3 +61,30 @@ for row in rows:
 PREMIUM = 2.00
 print(f"\nImplisitt gullspot siste dato ({end:%Y-%m-%d}): "
       f"~{gold.loc[:end].iloc[-1] / PREMIUM:,.0f} USD/oz (Goldback/{PREMIUM:.2f})")
+
+# Rullerende 10-dagers korrelasjon gjennom sommeren + figur
+import matplotlib
+matplotlib.use("Agg")
+import matplotlib.pyplot as plt
+
+ret_all = np.log(df[["gold", "brent"]].dropna()).diff().dropna()
+roll10 = ret_all["gold"].rolling(10).corr(ret_all["brent"]).dropna().loc["2026-03-01":]
+print(f"\nRullerende 10-dagers korrelasjon, siste verdi ({roll10.index[-1]:%Y-%m-%d}): {roll10.iloc[-1]:+.2f}")
+
+C_OIL, INK, GRID, SURFACE = "#2a78d6", "#0b0b0b", "#e1e0d9", "#fcfcfb"
+plt.rcParams.update({"figure.facecolor": SURFACE, "axes.facecolor": SURFACE,
+                     "axes.grid": True, "grid.color": GRID, "grid.linewidth": 0.6,
+                     "axes.spines.top": False, "axes.spines.right": False,
+                     "xtick.color": "#898781", "ytick.color": "#898781", "font.size": 10})
+fig, ax = plt.subplots(figsize=(9, 4))
+ax.axhline(0, color="#c3c2b7", lw=1)
+ax.plot(roll10.index, roll10.values, color=C_OIL, lw=1.8)
+ax.fill_between(roll10.index, 0, roll10.values, color=C_OIL, alpha=0.12, linewidth=0)
+ax.set_ylim(-1, 1)
+ax.set_title("Rullerende 10-dagers korrelasjon, daglige avkastninger (gull × Brent, mars–aug 2026)",
+             loc="left", fontweight="bold", color=INK)
+ax.annotate(f"{roll10.index[-1]:%d.%m}: {roll10.iloc[-1]:+.2f}", xy=(roll10.index[-1], roll10.iloc[-1]),
+            xytext=(8, 0), textcoords="offset points", color=C_OIL, fontweight="bold", va="center")
+ax.set_xlim(roll10.index[0], roll10.index[-1] + pd.Timedelta(days=18))
+fig.tight_layout()
+fig.savefig(HERE / "output" / "05_rullerende_korrelasjon_10d_2026.png", dpi=150)
