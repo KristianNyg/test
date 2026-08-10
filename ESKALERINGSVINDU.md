@@ -158,6 +158,34 @@ Tre-deskers verifiseringskjøring (fakta/advokat/falsifikator, ~40 søk) av det 
 10. **Lekkasje-inversjonen har ikke inntruffet:** Trump omtalte ammunisjonen som «tighter» 6.8. Svakhetshistoriene renner fortsatt; «lekkasjene har snudd»-påstanden var feil.
 
 ---
+
+## TILLEGG 2 (10. august): Full indikatorsveip — seks desker + kryssjekk
+
+**Fusjonerte tall (endring fra 7. aug):**
+| Hendelse | Før | Etter | Deskspredning |
+|---|---|---|---|
+| Amerikansk angrepsrunde innen 24. aug | ~41 % | **~32 %** | D1 33, D2 32, D3 42*, D4 33, D5 29, D6 32 |
+| Israelsk-først innen 20. aug | ~15–20 % | **~7–8 %** | D1 7, D2 7, D3 8, D4 8–10, D5 7 |
+| Type B (energikampanje) før 15. okt | ~71 % | **~62 %** | alle desker ned 7–9 pp |
+
+\* Kryssjekk-desken felte D3s oppjustering: begge premissene (Kharg-stans, Pezeshkian-eierskap) er ureplisert av deskene som eier henholdsvis markeds- og Iran-domenet. Fusjonen trekkes ikke opp av D3.
+
+**De fem funnene som flyttet tallene:**
+1. **ADNOC-treffet 8. aug uten amerikansk respons.** Iransk missil traff et emiratisk fartøy i stredet; UAEs UD attribuerte offentlig til Iran («piratvirksomhet», brudd på UNSCR 2817), Qatar og GCCs generalsekretær sluttet seg til. ADNOC: 3 fartøy truffet på én uke, 15–16 siden 28. feb. **Null amerikansk kinetisk respons på 48+ timer.** Responsterskelen ligger nå på amerikanske døde/amerikansk plattform, ikke Gulf-eiendeler. [RAPPORTERT — D6, som eier Gulf-domenet, fant ingen UKMTO-hendelse i vinduet; referansenummeret er kontaminert]
+2. **Gebyrklokken (16. aug) er defusert før den løper ut.** LMA-klausul opphever forsikringsdekning for fartøy som betaler Hormuz-gebyr; OFAC har designert Persian Gulf Marine Insurance Co. og HormuzSafe (krypto-skinnene). Åpen fakturering gir Iran ingen inntekt — den gir USA en bruddsak. Fee-klokken som utløser er dermed svekket som *inntektsklokke*, styrket som *narrativklokke*.
+3. **Feinberg-memoet (5. aug, rapportert 8.–9. aug) er det som best tåler press:** 21 dagers frist til forsvarsindustrien på produksjonsplaner, og talsmann Parnell **on record** med at det «informerer FY2028-budsjettet». Navngitt tjenestemann, tre mainstream-relayer, flerårig budsjettinnramming. Ammunisjonsgulvet er strukturelt, ikke to-ukers krigsbedrag — sterkeste enkeltargument mot Type B, og det minst avhengige av blokkerte kilder.
+4. **Begge sider bygger bruddsak mot hverandre uten å bryte.** Araghchi (8. aug) krever at USA «makes amends» for brudd på MOU-ens artikkel 5 — bruddnarrativet går nå *begge* veier. Ingen amerikansk «violation»-retorikk i vinduet (Rubio 4.8: «progress… not finality yet»; Vance 8.8: «middle of the game»; Trump 9.8: «low keying it»). CJCS Caine presser internt på en «off-ramp» (CNN 7.8, tre kilder). WSJ 9.8: Trump har privat luftet krigsslutt uten atomavtale, med **blokadeoppheving** hvis stredet åpnes fullt.
+5. **Fysikken går motsatt vei av avtalen.** Transitter 8/dag og *fallende* (33 fartøy man–tor mot 50 uken før); Kharg-lasting rapportert stanset siden 31.7 [TVILSOM — ureplisert]; dieselcracks på **rekord** (3-2-1 ~$72, destillat −12 % mot femårssnitt), ikke komprimert som Blå celle mistenkte; SPR trakk 2,8 mb (tripwiren «<1,5 mb = spares» fyrte **ikke**); ingen OFAC-lettelse funnet — S5-grenen mangler fortsatt instrumentspor.
+
+**Portkorreksjon:** D3 flyttet Type B-porten. Petroline/Yanbu er ikke flaskehalsen — Yanbu lastet 4,7 mb/d 13. juli og hadde fem av syv posisjoner opptatt 1. august. Den bindende begrensningen er **Bab el-Mandeb** (70–75 % av Yanbu-lasten), der houthiene eskalerer. Porten holdes lukket fra den andre enden enn antatt.
+
+**De-eskalerende tells som fyrte:** Qatar Airways og Etihad gjenopptok Bahrain/Kuwait 8. aug (militærdeskens tripwire 2: gjenopptak = utsett 1–2 uker). Israelske selskaper *utvider* — Arkia setter A330 på TLV–JFK fra 11. sep; Ethiopian økte til 26 TLV-avganger/uke. Selskaper som selger septemberkapasitet forventer ikke krig i august.
+
+**Metodefunn — ~20 nye resirkuleringsfeller i én sveip.** Blant dem: «6 B-2 på Diego Garcia» = Planet Labs mars/april **2025**; «tankfly-armada østover» = juni **2025** / 17. juli 2026; «Israel informerte Cooper om at de ikke trenger godkjenning» = sterksitat kun hos X-kontoen «The Hormuz Letter», nærmeste variant **dementert av IDF** 29.7; «brennende skrog + ASBM i maskinrommet» = tre hendelser sydd sammen (7.7 + 31.7/1.8 + 8.8); ICE-COT «uke slutt 6. aug» = **2024**-data; «MM netto per 12. aug» = **2025**; Jizan «totalt ødelagt» = fabrikasjon motsagt av saudisk energidepartement; UKMTO-varsel 081/082/083 = **juli**. Samtlige drar i eskalerende retning. Feillogg §8 er nå den best dokumenterte regelen i hele rammeverket.
+
+**Metodebegrensning å notere:** kryssjekk-desken fikk **null** egne søk (søkebudsjettet var tømt av de seks domenedeskene), og WebFetch var blokkert for alle primærkilder. Falsifiseringen er derfor intern kryssdesk-kontroll, ikke ekstern verifisering. Seks påstander står uavklart og krever ny kjøring med budsjett: UKMTO-teksten for 8.8, Kanal 13-transkriptet, WSJ-artikkelen selv, Kpler-serien for Kharg, NBC-saken med Pezeshkian-sitatet, og Navy/USNI-bekreftelse på Lincoln-forlengelsen.
+
+---
 ---
 
 # VEDLEGG — TIMING-DESKRAPPORTENE I SIN HELHET
