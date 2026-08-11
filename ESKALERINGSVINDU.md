@@ -186,6 +186,43 @@ Tre-deskers verifiseringskjøring (fakta/advokat/falsifikator, ~40 søk) av det 
 **Metodebegrensning å notere:** kryssjekk-desken fikk **null** egne søk (søkebudsjettet var tømt av de seks domenedeskene), og WebFetch var blokkert for alle primærkilder. Falsifiseringen er derfor intern kryssdesk-kontroll, ikke ekstern verifisering. Seks påstander står uavklart og krever ny kjøring med budsjett: UKMTO-teksten for 8.8, Kanal 13-transkriptet, WSJ-artikkelen selv, Kpler-serien for Kharg, NBC-saken med Pezeshkian-sitatet, og Navy/USNI-bekreftelse på Lincoln-forlengelsen.
 
 ---
+
+## TILLEGG 3 (12. august): D-dag-analysen — når slippes prisen løs?
+
+Seks desker + syntese innenfor Lobster-rammen (undertrykkelse hindrer verdens tilpasning; rask frigivelse foretrekkes; USAs skranke er egne finansmarkeder).
+
+**KORREKSJONER AV EGNE FEIL:**
+1. **Tankflyene dro aldri hjem.** USA *frøs* uttrekket fra Ben Gurion **14. juli** «på grunn av eskaleringen med Iran»; avreisen **21. juli ble avlyst** av sikkerhetsgrunner. 33 står fortsatt på BG mot avtalt tak 20, ~30 på Ramon, flere på Ovda/IAF-baser, og **ti nye ankom fredag–lørdag** rutet til IAF-baser. **Totalt ~60–66 i Israel.** Hele juni-2025-krigen ble kjørt med ~30. «Turistsesong»-forklaringen var invertert: turisttrykket var kraften som *ville* fjernet dem, og det tapte to ganger. Konsekvens: **dyp israelsk-basert luftpakke krever null Atlanterbro og gir null varslingstid.**
+2. **«CENTCOM stille siden 29.–30. juli» var feil i substans.** Lullen er et *skifte fra luftkampanje til marin håndhevelse*, med økende takt: 11. august skjøt et amerikansk helikopter missiler inn i maskinrommet på M/V Vela Nova i Omanbukta. CENTCOM-kumulativ: **55 omdirigert, 3 satt ut av spill, 2 bordet** (mot 44 den 3.8, 48 den 5.8).
+3. **Cooper-besøket var ikke rutine i sammensetning:** Zamir-ledet forum med operative sjefer fra oberstløytnant og opp, inkludert eskadresjefer, med flerfronts operativ- og etterretningsbrief.
+4. **Kharg-stansen bekreftet** (Kpler + Energy Aspects/FT + JPost + UANI: 13 lastede tankere i ankringen 4.8). Kryssjekkens «TVILSOM»-flagg lukket.
+
+**SPR: 298,7 mb per 10. august — under 300 for første gang siden januar 1983, og uttakstakten DOBLET til −6,1 mb/uke.** Tripwiren «<1,5 mb = stille stopp» gikk i revers. De akselererer subsidien.
+
+**Undertrykkelsen 11. august:** Pakistan (Asif) og Qatar (Al Ansari) meldte fremgang; energiminister Wright hevdet 9 mb/d gjennom stredet «thanks to the U.S. military» — mot Kplers 8 fartøy/dag og ~2 mb/d målt i slutten av juli, altså **~4,5x oppblåst**. Presedens: 10. mars postet Wright om en marineeskorte, crude falt >17 %, posten ble slettet og Leavitt dementerte. Marginaleffekt per dempingsoverskrift: **−17 % (10.3) → −5,7 % (4.8) → −0,5 % (5.8) → ~0/negativ (11.8)**. Samme dag steg Brent 1,36 % til 88,91 og WTI 1,3 % til 83,20.
+
+**D-DAG — villet rask frigivelse:**
+
+| Vindu | P | Bindende betingelse |
+|---|---|---|
+| aug–sept 2026 | 5 % | ~166 mb egen subsidie (56 SPR + ~110 IEA) lander fortsatt; injeksjonssesong åpen; passthrough treffer urnene |
+| okt 2026 | 8 % | Fatene tørker ~1.–11.10, men valg 3.11 og EU-injeksjon til 1.11 forbyr |
+| **nov–des 2026** | **34 %** | Alle skranker unntatt hemisfærisk forsyning og eksportrestriksjoner oppfylt. **1. november (sesong) og 4. november (politikk) faller sammen innen 72 timer** |
+| jan–feb 2027 | 15 % | Maksimal kulde, men Europa har alt tatt to måneders kurtailment |
+| mars–juni 2027 | 5 % | Sesongen tapt |
+| senere/aldri villet | 33 % | Null administrativt spor for isoleringsmaskineriet |
+
+**Fysikk-tvunget drift (ingen valgte det): P(Brent >$120 før 1.3.2027) ≈ 55–60 %.**
+
+**Sesongmultiplikatoren kvantifisert:** OECD midt-destillat 1Q vs 3Q = +1,3–2,0 mb/d (120–180 mb ekstra kall på et system 12 % under femårssnittet). Bufferleddet er en trinnfunksjon: i august absorberes bortfall som lavere injeksjon (utsatt kostnad), i januar som kurtailment (umiddelbar). Samlet skademultiplikator **2–3,5x** vinter mot sommer. Men: august-undertrykkelsen er **overdeterminert** — $4,10 bensin 12 uker før mellomvalget gir identisk atferd uten noen skadekalender. De to hypotesene er observasjonelt like til 4. november.
+
+**Sterkeste motargument mot hele rammen:** SPR-takten *doblet* (motsatt av å spare krutt); null administrativt spor for eksportrestriksjoner i hele 2026 med on-record-dementier (Wright/Burgum 19.3); DOJ-prisgaugingordre 24.6 mot egne produsenter; 10. mars-fiaskoen som improvisasjon på kamera; dempingskanalen brent ned gjennom tre iterasjoner av samme pakistanske meglerkanal (28.3 → 5.8 → 11.8). Under den lesningen er «undertrykkelse» bare bensinprispolitikk før mellomvalget.
+
+**INSTRUMENTKONSEKVENS (beslutningsrelevant):** Brent–WTI står −$5,71. Et råoljeeksportforbud fjerner **6,4 mb/d** fra det sjøbårne markedet (Brent opp) og strander samme volum innenlands mot krympende raffinerikapasitet (WTI ned). Presedens 2011–14: spread $12–18, topp ~$25–28 på bare 1–1,5 mb/d strandet. Estimat ved 6,4 mb/d: **Brent–WTI −$25 til −$45**; med Brent $140 kan WTI ligge $95–115. **WTI er feil instrument for denne tesen.** Skaler til P(forbud), ikke P(frigivelse) — og P(forbud) har null observerbart spor per 12. august.
+
+**Tre skarpeste teller:** (1) SPR-uttaket kollapser til <1,5 mb/uke i en DOE-mandagsavlesning — det *er* frigivelsen, ikke et forvarsel; (2) FIMA-repotaket heves ved FOMC 15.–16. september (Bessent ba offentlig om «upsize» 3.–5.8); (3) BIS-regel under 15 CFR 754 for petroleumsprodukter, eller Jones Act-fornyelsen ~15. november utvidet med bredere varekurv. Reserve: Trump slutter å hevde «100 % kontroll over Hormuz» — så lenge han eier prisen retorisk, kan han ikke slippe den.
+
+---
 ---
 
 # VEDLEGG — TIMING-DESKRAPPORTENE I SIN HELHET
