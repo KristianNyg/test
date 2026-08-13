@@ -223,6 +223,50 @@ Seks desker + syntese innenfor Lobster-rammen (undertrykkelse hindrer verdens ti
 **Tre skarpeste teller:** (1) SPR-uttaket kollapser til <1,5 mb/uke i en DOE-mandagsavlesning — det *er* frigivelsen, ikke et forvarsel; (2) FIMA-repotaket heves ved FOMC 15.–16. september (Bessent ba offentlig om «upsize» 3.–5.8); (3) BIS-regel under 15 CFR 754 for petroleumsprodukter, eller Jones Act-fornyelsen ~15. november utvidet med bredere varekurv. Reserve: Trump slutter å hevde «100 % kontroll over Hormuz» — så lenge han eier prisen retorisk, kan han ikke slippe den.
 
 ---
+
+## TILLEGG 4 (13. august): Nyhetssveip — tre premisser snudde
+
+**KORREKSJONER AV EGNE FEIL:**
+1. **SPR-«doblingen» var ÉN observasjon talt to ganger.** DOE-avlesningen 10.8 og EIA WPSR 12.8 er samme datapunkt (−6,115 mb til 298,69 mb, uke t.o.m. 7.8). Takten er doblet mot juli, men den akselererer ikke videre. Aritmetikk ved uendret takt: ~280 mb den 28.8, EPCA-gulvet 252,4 mb rundt **22.–29. oktober** — altså i *slutten* av modalvinduet, ikke i midten.
+2. **Wright er 1,3–1,8x oppblåst, ikke 4,5x.** D4s korreksjon. En 1,3x-overdrivelse *overlever* faktasjekk — undertrykkelseskanalen er mer holdbar enn modellert.
+3. **Posisjoneringen er invertert mot det jeg har hevdet.** COT: **266k kombinert netto long** etter +171k netto kjøp *inn i* fallet $100→$75. Managed money kjøpte dippen; de er ikke short. «101k shorts som squeeze-drivstoff» er feil — dette er **nedsidebrensel**, ikke oppsidebrensel.
+
+**HVA SOM ENDRET SEG 11.–13. AUGUST:**
+- **Blokadetempoet kollapset til 0/døgn.** CENTCOM-tellingen står på 55/3/2 fjerde døgn på rad (55 meldt 9.8), fra 2,9 omdirigeringer/døgn 2.–9.8. Samtidig faller transitter 95 → 78 (Lloyd's, uke 3.–9.8). **Håndhevelsesobjektet forsvinner** — kinetikk-kanalen tømmes av fysikk, ikke politikk.
+- **EIA 12.8: +17,4 mb kommersiell bygging til 424,4 mb** — største på 3,5 år mot konsensus −1,4. Driveren er **eksportkollaps** (−627 kb/d), ikke svak etterspørsel. Amerikansk innenlandsfysikk subsidierer ro lenger enn modellert. Bensin $4,006/gal.
+- **IEA OMR 12.8: 3Q-underskudd 1,8 mb/d** — 1 mb/d nedrevisjon på én måned, dypeste siden 4Q21; 410 mb kumulativt krigstrekk. Strammingen løper uavhengig av kinetikk.
+- **Bab el-Mandeb dødelig igjen 12.8:** M/V *Tihamah*, «double-tap» mot redningsmannskap, 6 drepte. Samtidig kollapser Yanbu-lastingen fra 4,7 (medio juli) til **1,78–2,38 mb/d**, og Jizan-restart skyves fra 15.8 til **30.8**.
+- **CPI 3,4 % kuttet Fed-hevingsodds i september fra ~78 % til 42–50 %.** Vinduets første halvdel blir *dyrere*, ikke billigere: et oljesjokk før 15.–16.9 gjenopptenner haukeløkken raskere fra 42 % enn fra 78 %.
+- **To mislykkede utbrudd:** Brent over $90 over natten 12.8, settlet 88,98 (+0,07), deretter −1,2 til −1,8 % den 13.8.
+
+**DE FIRE HOVEDTELLENE:**
+
+| Tell | Status 13.8 |
+|---|---|
+| (a) «100 % kontroll» | **HOLDER, FORSTERKET.** Truth Social 12.8: «total control… A WALL OF STEEL»; muntlig: «We own it». Iran hevder eierskap institusjonelt samtidig (Strait Authority 12.–13.8). **Begge eier prisen; ingen overleverer skjøtet.** Forløpersignalet er lenger unna enn i går |
+| (b) SPR-takt | **HOLDER doblet takt.** Ingen kollaps. EPCA-gulv 22.–29. oktober. To strake uker under 2 mb (avlesninger 17./19.8 og 24./26.8) = frigivelsen er tatt |
+| (c) FIMA | **INSTALLERT RETORISK, IKKE OPERATIVT.** Bessent ba 2.8 (ikke 3.–5.8). **FIMA-bruk = null** (H.4.1, uke slutt 5.8) — absorberen er aldri testet. P(tak hevet ved FOMC) ~22 %. Motmekanisme: BoJs eget svar er renteheving (~67 % priset), som støtter yenen uten å røre Treasuries og **omgår hele hypotesen** |
+| (d) Eksportrestriksjoner / OFAC-Kina | **FORTSATT NULL, nå datert: 111 dager** siden siste Kina-designering (24.4). 7.8-aksjonen traff krypto/skyggebank — pengene, ikke kjøperne. Brent–WTI −5,71 → −5,79/−5,81: null prising |
+
+**OPPDATERTE TALL:**
+
+| Utfall | Før | Nå |
+|---|---|---|
+| Fysikk-tvunget utbrudd før/i vinduet | 58 % | **54 %** |
+| Villet frigivelse i vinduet | 8 % | **4 %** |
+| Dempingen strekkes forbi februar | 12 % | **15 %** |
+| Residual (utbrudd 15.10–28.2) | — | **27 %** |
+
+Type A innen 24.8: **24–30 %** (lullen er dag 14 uten én lag-1-signatur). Type B før 15.10: **~59–60 %**.
+
+**TRE UNDERVURDERTE FUNN:**
+1. **Ett-dekks-gapet.** Lincoln på 264 dager med to tvangsforlengelser, offentlig moralkrise og pårørendepress mot marineministeren gjør avløsning politisk uunngåelig. To-dekks-vinduet lukkes fra *feil* ende, midt i modalvinduet — materiell brems på Type A.
+2. **Gebyrsømmen ligger i signert junitekst.** Juni-fellesuttalelsen (fm.gov.om) etablerer «the services that will be provided… and the costs associated with them». Iran trenger ingen ny forhandling for å påberope gebyr når MOU+60 utløper **16.8**. Forvent tekstpåberopelse 16.–22.8 **uten faktura** — ren narrativklokke.
+3. **Måleoppløsningen kutter begge veier.** 12 mørke STS-bytter 10.8, alle Yanbu-lastinger «dark», fire uforenlige metodikker i omløp. Strammingen kan være mindre enn tapen tror — og molekylene finner vei rundt tellingen.
+
+**KALIBRERINGSOPPDATERING til feillogg §8:** skjevheten («alle resirkuleringsfeller trekker eskalerende») har nå to moteksempler — «Epic Fury» (avsluttet 5. mai per Air & Space, men USNI fører fortsatt Lincoln under navnet) og «IEA rekordoverskudd 2,96 mb/d» (august **2025**-rapporten). Skjevheten består, men er ikke unntaksfri. Ny høyrisiko-felle: **AFPM/API-brevet mot eksportforbud er 4.10.2022** — det treffer nøyaktig den mest beslutningsrelevante tellingen.
+
+---
 ---
 
 # VEDLEGG — TIMING-DESKRAPPORTENE I SIN HELHET
