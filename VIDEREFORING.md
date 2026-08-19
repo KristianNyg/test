@@ -59,7 +59,7 @@ Du viderefører en pågående strategisk analyse av Hormuz-krigen (USA/Israel–
 
 5. **Lobster-rammen, delvis:** USA tåler knapphet relativt bedre (nettoeksportør); blokaden er krigens viktigste element; irreversibilitet — status quo ante er død.
 
-### Falt (ikke gjenopplив dem)
+### Falt (ikke gjenoppliv dem)
 
 1. **To-modus-modellen** (Modus 1 avtaleteater / Modus 2 bombing, sagtann). Falsifisert. Vi er i en tredje tilstand modellen ikke hadde: **frossen beleiring** — ingen avtale mulig, ingen bombing, blokadetempo null. Dens basisrate («5 av 5 punktert innen 3–10 dager») ble omtelt til 1–56 dager, og lullen er nå 15+ dager.
 
